@@ -8,7 +8,7 @@
 | | Audio |
 |---|---|
 | **Noisy (raw)** | [Download raw.wav](demo/raw.wav) |
-| **Cleaned** | [Download clean.wav](demo/clean.wav) |
+| **Cleaned** | [Download clean.wav](demo/clean_ouput.wav) |
 
 **Results on this sample:**
 
